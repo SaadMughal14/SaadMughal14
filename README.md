@@ -5,7 +5,7 @@
 - 👯 **Looking to collaborate on:** AI-first SaaS products or visually complex web applications.
 - 🤔 **Looking for help with:** Exploring advanced animation libraries and scalable AI architecture patterns.
 - 💬 **Ask me about:** Building Command Center dashboards, AI document processing, or turning Figma designs into live code.
-- ⚡ **Fun fact:** To avoid all the manual work, My lazy ass built **Agency AI**: a system that automatically finds leads, analyzes buying signals, refines email drafts, and sends fully personalized emails—basically I outsourced my own hustle 😄
+- ⚡ **Fun fact:** To avoid all the manual work, My lazy ass built **Agency OS**: an agentic AI system that automatically finds leads, analyzes buying signals, refines email drafts, and sends fully personalized emails—basically I outsourced my own hustle 😄
 
 ---
 
