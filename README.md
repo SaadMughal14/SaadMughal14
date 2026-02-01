@@ -5,7 +5,7 @@
 - 👯 **Looking to collaborate on:** AI-first SaaS products or visually complex web applications.
 - 🤔 **Looking for help with:** Exploring advanced animation libraries and scalable AI architecture patterns.
 - 💬 **Ask me about:** Building Command Center dashboards, AI document processing, or turning Figma designs into live code.
-- ⚡ **Fun fact:** My lazy ass built **Agency AI**: a system that automatically finds leads, analyzes buying signals, refines email drafts, and sends fully personalized emails—basically I outsourced my own hustle 😄
+- ⚡ **Fun fact:** My lazy ass built **Agency AI**: a system that automatically finds leads, analyzes buying signals, refines email drafts, and sends fully personalized emails—basically I outsourced my own hustle 😎
 
 ---
 
@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/msaad_mughal)
 [![X/Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Saad_Mughal_123)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isaadimughal@gmail.com)
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?logo=googlechrome&logoColor=white)](https://saad-mughal-portfolio.vercel.app/)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%2317a2b8.svg?logo=firefox&logoColor=white)](https://saad-mughal-portfolio.vercel.app/)
 
 ---
 
@@ -62,12 +62,12 @@
 
 ## 📊 GitHub Stats:
 
-![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadMughal14&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=SaadMughal14&theme=dark&hide_border=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMughal14&theme=dark&hide_border=true&layout=compact)
+![📈 Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadMughal14&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![🔥 Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SaadMughal14&theme=dark&hide_border=true&show_icons=true)
+![📊 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMughal14&theme=dark&hide_border=true&layout=compact&show_icons=true)
 
 ---
 
 ## 📈 Visit Counter
 
-![Visitor Count](https://visitcount.itsvg.in/api?id=SaadMughal14&icon=5&color=12)
+![👀 Visitor Count](https://profile-counter.glitch.me/SaadMughal14/count.svg)
