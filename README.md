@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/msaad_mughal)
 [![X/Twitter](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Saad_Mughal_123)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isaadimughal@gmail.com)
-[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%23000000.svg?logo=googlechrome&logoColor=white)](https://saad-mughal-portfolio.vercel.app/)
+[![My Portfolio](https://img.shields.io/badge/My%20Portfolio-%2317a2b8.svg?logo=firefox&logoColor=white)](https://saad-mughal-portfolio.vercel.app/)
 
 ---
 
