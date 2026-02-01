@@ -30,7 +30,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?logo=vercel&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?logo=microsoftazure&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?logo=node.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-6DA55F.svg?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
@@ -38,7 +38,7 @@
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white)
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?logo=WordPress&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?logo=nginx&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E.svg?logo=supabase&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
@@ -63,8 +63,8 @@
 ## 📊 GitHub Stats:
 
 ![📈 Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadMughal14&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![🔥 Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=SaadMughal14&theme=dark&hide_border=true&show_icons=true)
-![📊 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMughal14&theme=dark&hide_border=true&layout=compact&show_icons=true)
+![🔥 GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SaadMughal14&theme=dark&hide_border=true)
+![📊 Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMughal14&theme=dark&hide_border=true&layout=compact)
 
 ---
 
