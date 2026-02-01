@@ -65,9 +65,3 @@
 ![Saad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SaadMughal14&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 ![Streak Stats](https://nirzak-streak-stats.vercel.app/?user=SaadMughal14&theme=dark&hide_border=true&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SaadMughal14&theme=dark&hide_border=true&layout=compact)
-
----
-
-## 📈 Visit Counter
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=SaadMughal14&icon=5&color=12)
