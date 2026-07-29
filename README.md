@@ -18,7 +18,7 @@
 
 Full-Stack Engineer and AI Systems Architect with 5+ years of experience spanning e-commerce, production-grade web applications, and AI-driven platforms. Founder of **Operator Control Systems** (industrial AI, HMI/SCADA, Zero Trust) and **Batch Systems** (premium web experiences for global clients). Delivered 13+ AI systems and 8+ high-performance web products across logistics, automotive, fashion, and energy. Open to remote roles worldwide.
 
-- 🔭 **Currently working on:** Building out new client projects at Batch Systems and Operator Control Systems, plus AI automation tooling (Agency OS, LinkedIn Content Formatter).
+- 🔭 **Currently working on:** Building out new client projects at Batch Systems and Operator Control Systems, plus AI automation tooling.
 - 🌱 **Currently learning:** Advanced Framer Motion and GSAP/ScrollTrigger patterns, and event-driven architecture for real-time apps.
 - 👯 **Looking to collaborate on:** AI-first SaaS products or visually complex, full-stack web applications.
 - 🤔 **Looking for help with:** Advanced animation libraries and scalable AI architecture patterns.
@@ -37,28 +37,6 @@ Full-Stack Engineer and AI Systems Architect with 5+ years of experience spannin
 
 ---
 
-### 🚀 Selected Work
-
-**Batch Systems**
-- **Gravity**, a cloud ordering platform
-- **Threada**, fashion e-commerce with a 3D hero
-- **Novus**, a renewable energy showcase
-- **Gusto**, a pizza platform with a Studio Rotator
-- **Lumina**, a 720-frame scroll-driven animation experience at smooth 60fps
-- **Vantage**, a Life OS landing page with a Three.js 3D hero, sub-2s load times
-- **WakuWaku**, a bilingual EN/JP luxury subscription platform with a custom design system
-
-**Operator Control Systems**
-- **B2B Command Center v3**, **Digital Twin HMI v2.2**, **Logistics Dashboard v2.5**, **Automation Hub v2.1**
-- Predictive maintenance pipelines using real-time OPC UA data ingestion (60% reduction in simulated downtime alerts)
-- Zero Trust network frameworks for industrial control environments
-- **Project Booking**, an AI-powered appointment system that cut manual coordination overhead by roughly 70%
-
-**AI Tooling**
-- **Agency OS**, an agentic lead-gen and outreach system
-- **LinkedIn Content Formatter**, a Chrome extension (Manifest V3) using the Google Gemini API and Gemini Nano to enhance LinkedIn posts, with a glassmorphism UI
-
----
 
 ### 🛠️ Tech Stack
 
