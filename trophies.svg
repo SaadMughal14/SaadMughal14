@@ -1,0 +1,145 @@
+<svg width="560" height="330" viewBox="0 0 560 330" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="shine2" x1="0%" y1="0%" x2="100%" y2="0%">
+    <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#fff" stop-opacity="0.5"/>
+    <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+  </linearGradient>
+  <style>
+    .sans{font-family:'Segoe UI',Helvetica,Arial,sans-serif;}
+    .t-title{fill:#b8f5e0;font-size:13px;}
+    .t-rank{font-size:22px;font-weight:700;}
+  </style>
+</defs>
+<rect width="560" height="330" rx="16" fill="#060a14"/>
+
+<!-- row 1 -->
+<g transform="translate(10,10)">
+  <clipPath id="c0"><rect width="130" height="150" rx="14"/></clipPath>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.1s" dur="0.35s" fill="freeze"/>
+    <rect width="130" height="150" rx="14" fill="#0a1424" stroke="rgba(59,130,246,0.45)"/>
+    <g clip-path="url(#c0)">
+      <text x="65" y="44" text-anchor="middle" font-size="30">⭐</text>
+      <text x="65" y="68" text-anchor="middle" class="sans t-title">Stars</text>
+      <text x="65" y="98" text-anchor="middle" class="sans t-rank" fill="#3b82f6">A+</text>
+      <text x="65" y="132" text-anchor="middle" class="sans" font-size="16" fill="#ffffff">128</text>
+      <rect x="-60" y="0" width="40" height="150" fill="url(#shine2)" transform="skewX(-20)">
+        <animate attributeName="x" values="-60;190" dur="3.2s" begin="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</g>
+
+<g transform="translate(150,10)">
+  <clipPath id="c1"><rect width="130" height="150" rx="14"/></clipPath>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.25s" dur="0.35s" fill="freeze"/>
+    <rect width="130" height="150" rx="14" fill="#0a1424" stroke="rgba(0,217,255,0.45)"/>
+    <g clip-path="url(#c1)">
+      <text x="65" y="44" text-anchor="middle" font-size="30">🔥</text>
+      <text x="65" y="68" text-anchor="middle" class="sans t-title">Commits</text>
+      <text x="65" y="98" text-anchor="middle" class="sans t-rank" fill="#00d9ff">S</text>
+      <text x="65" y="132" text-anchor="middle" class="sans" font-size="16" fill="#ffffff">1,940</text>
+      <rect x="-60" y="0" width="40" height="150" fill="url(#shine2)" transform="skewX(-20)">
+        <animate attributeName="x" values="-60;190" dur="3.2s" begin="1.2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</g>
+
+<g transform="translate(290,10)">
+  <clipPath id="c2"><rect width="130" height="150" rx="14"/></clipPath>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.4s" dur="0.35s" fill="freeze"/>
+    <rect width="130" height="150" rx="14" fill="#0a1424" stroke="rgba(245,166,35,0.45)"/>
+    <g clip-path="url(#c2)">
+      <text x="65" y="44" text-anchor="middle" font-size="30">🔀</text>
+      <text x="65" y="68" text-anchor="middle" class="sans t-title">Pull Requests</text>
+      <text x="65" y="98" text-anchor="middle" class="sans t-rank" fill="#f5a623">A</text>
+      <text x="65" y="132" text-anchor="middle" class="sans" font-size="16" fill="#ffffff">64</text>
+      <rect x="-60" y="0" width="40" height="150" fill="url(#shine2)" transform="skewX(-20)">
+        <animate attributeName="x" values="-60;190" dur="3.2s" begin="1.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</g>
+
+<g transform="translate(430,10)">
+  <clipPath id="c3"><rect width="120" height="150" rx="14"/></clipPath>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.35s" fill="freeze"/>
+    <rect width="120" height="150" rx="14" fill="#0a1424" stroke="rgba(23,230,200,0.45)"/>
+    <g clip-path="url(#c3)">
+      <text x="60" y="44" text-anchor="middle" font-size="30">🐛</text>
+      <text x="60" y="68" text-anchor="middle" class="sans t-title">Issues</text>
+      <text x="60" y="98" text-anchor="middle" class="sans t-rank" fill="#17e6c8">B+</text>
+      <text x="60" y="132" text-anchor="middle" class="sans" font-size="16" fill="#ffffff">37</text>
+      <rect x="-60" y="0" width="40" height="150" fill="url(#shine2)" transform="skewX(-20)">
+        <animate attributeName="x" values="-60;180" dur="3.2s" begin="1.6s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</g>
+
+<!-- row 2 -->
+<g transform="translate(10,170)">
+  <clipPath id="c4"><rect width="130" height="150" rx="14"/></clipPath>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.7s" dur="0.35s" fill="freeze"/>
+    <rect width="130" height="150" rx="14" fill="#0a1424" stroke="rgba(99,102,241,0.45)"/>
+    <g clip-path="url(#c4)">
+      <text x="65" y="44" text-anchor="middle" font-size="30">👥</text>
+      <text x="65" y="68" text-anchor="middle" class="sans t-title">Followers</text>
+      <text x="65" y="98" text-anchor="middle" class="sans t-rank" fill="#818cf8">A-</text>
+      <text x="65" y="132" text-anchor="middle" class="sans" font-size="16" fill="#ffffff">N/A</text>
+      <rect x="-60" y="0" width="40" height="150" fill="url(#shine2)" transform="skewX(-20)">
+        <animate attributeName="x" values="-60;190" dur="3.2s" begin="1.8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</g>
+
+<g transform="translate(150,170)">
+  <clipPath id="c5"><rect width="130" height="150" rx="14"/></clipPath>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="0.85s" dur="0.35s" fill="freeze"/>
+    <rect width="130" height="150" rx="14" fill="#0a1424" stroke="rgba(255,107,74,0.45)"/>
+    <g clip-path="url(#c5)">
+      <text x="65" y="44" text-anchor="middle" font-size="30">📦</text>
+      <text x="65" y="68" text-anchor="middle" class="sans t-title">Repositories</text>
+      <text x="65" y="98" text-anchor="middle" class="sans t-rank" fill="#ff8a65">A</text>
+      <text x="65" y="132" text-anchor="middle" class="sans" font-size="16" fill="#ffffff">N/A</text>
+      <rect x="-60" y="0" width="40" height="150" fill="url(#shine2)" transform="skewX(-20)">
+        <animate attributeName="x" values="-60;190" dur="3.2s" begin="2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</g>
+
+<g transform="translate(290,170)">
+  <clipPath id="c6"><rect width="130" height="150" rx="14"/></clipPath>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1s" dur="0.35s" fill="freeze"/>
+    <rect width="130" height="150" rx="14" fill="#0a1424" stroke="rgba(255,209,102,0.45)"/>
+    <g clip-path="url(#c6)">
+      <text x="65" y="44" text-anchor="middle" font-size="30">🏆</text>
+      <text x="65" y="68" text-anchor="middle" class="sans t-title">Experience</text>
+      <text x="65" y="98" text-anchor="middle" class="sans t-rank" fill="#ffd166">S</text>
+      <text x="65" y="132" text-anchor="middle" class="sans" font-size="16" fill="#ffffff">5+ yrs</text>
+      <rect x="-60" y="0" width="40" height="150" fill="url(#shine2)" transform="skewX(-20)">
+        <animate attributeName="x" values="-60;190" dur="3.2s" begin="2.2s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</g>
+
+<g transform="translate(430,170)">
+  <clipPath id="c7"><rect width="120" height="150" rx="14"/></clipPath>
+  <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.15s" dur="0.35s" fill="freeze"/>
+    <rect width="120" height="150" rx="14" fill="#0a1424" stroke="rgba(56,189,248,0.45)"/>
+    <g clip-path="url(#c7)">
+      <text x="60" y="44" text-anchor="middle" font-size="30">🏢</text>
+      <text x="60" y="68" text-anchor="middle" class="sans t-title">Companies</text>
+      <text x="60" y="98" text-anchor="middle" class="sans t-rank" fill="#38bdf8">S</text>
+      <text x="60" y="132" text-anchor="middle" class="sans" font-size="16" fill="#ffffff">2</text>
+      <rect x="-60" y="0" width="40" height="150" fill="url(#shine2)" transform="skewX(-20)">
+        <animate attributeName="x" values="-60;180" dur="3.2s" begin="2.4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+</g>
+</svg>
