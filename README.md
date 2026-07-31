@@ -1,19 +1,31 @@
-<div align="center">
+<div style="display:flex; align-items:flex-start; gap:2rem; justify-content:center; flex-wrap:wrap;">
 
-<img src="banner.svg?v=9" alt="Saad Mughal banner" width="100%">
+  <!-- LEFT: Banner + Lanyard (lanyard tinted red via CSS filter) -->
+  <div style="max-width:720px; flex:1 1 560px;">
+    <img src="banner.svg?v=9" alt="Saad Mughal banner" style="width:100%; height:auto; display:block;" />
+    <br />
+    <!-- The filter below tints the lanyard to a red tone. Tweak the filter values if you want a different red. -->
+    <img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="170" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); display:block;" />
+  </div>
 
-<br><br>
+  <!-- RIGHT: Profile / Contact badges (stacked, tinted green) -->
+  <div style="display:flex; flex-direction:column; gap:0.5rem; align-items:flex-start; justify-content:center;">
+    <a href="https://saadmughal.space/" aria-label="Portfolio">
+      <img src="https://img.shields.io/badge/Portfolio-21A179?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    </a>
 
-<img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="170">
+    <a href="https://x.com/Saad_Mughal_123" aria-label="X / Twitter">
+      <img src="https://img.shields.io/badge/X-21A179?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    </a>
 
-<br><br>
+    <a href="https://instagram.com/msaad_mughal" aria-label="Instagram">
+      <img src="https://img.shields.io/badge/Instagram-21A179?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    </a>
 
-<p>
-  <a href="https://saadmughal.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://x.com/Saad_Mughal_123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-  <a href="https://instagram.com/msaad_mughal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:isaadimughal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+    <a href="mailto:isaadimughal@gmail.com" aria-label="Email">
+      <img src="https://img.shields.io/badge/Email-21A179?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </div>
 
 </div>
 
@@ -21,7 +33,7 @@
 
 ### 💫 About Me
 
-Full-Stack Engineer and AI Systems Architect with 5+ years of experience spanning e-commerce, production-grade web applications, and AI-driven platforms. Founder of **Operator Control Systems** (industrial AI, HMI/SCADA, Zero Trust) and **Batch Systems** (premium web experiences for global clients). Delivered 13+ AI systems and 8+ high-performance web products.
+Full-Stack Engineer and AI Systems Architect with 5+ years of experience spanning e-commerce, production-grade web applications, and AI-driven platforms. Founder of **Operator Control Systems** (i[...]
 
 - 🔭 **Currently working on:** New client projects at Batch Systems and Operator Control Systems, plus AI automation tooling.
 - 🌱 **Currently learning:** Advanced Framer Motion and GSAP/ScrollTrigger patterns, and event-driven architecture for real-time apps.
@@ -40,7 +52,40 @@ Full-Stack Engineer and AI Systems Architect with 5+ years of experience spannin
 
 ### 🔑 Key Skills
 
-React / Next.js &nbsp;|&nbsp; TypeScript &nbsp;|&nbsp; Node.js &nbsp;|&nbsp; Python &nbsp;|&nbsp; PostgreSQL &nbsp;|&nbsp; Supabase &nbsp;|&nbsp; REST APIs &nbsp;|&nbsp; Docker &nbsp;|&nbsp; Tailwind CSS &nbsp;|&nbsp; GSAP / ScrollTrigger &nbsp;|&nbsp; Framer Motion &nbsp;|&nbsp; Three.js &nbsp;|&nbsp; Canvas API &nbsp;|&nbsp; Laravel / Inertia.js &nbsp;|&nbsp; LLM Orchestration &nbsp;|&nbsp; Agentic Workflows &nbsp;|&nbsp; Prompt Engineering &nbsp;|&nbsp; HMI / SCADA &nbsp;|&nbsp; OPC UA / IoT &nbsp;|&nbsp; Digital Twins &nbsp;|&nbsp; Zero Trust Architecture &nbsp;|&nbsp; WooCommerce &nbsp;|&nbsp; WordPress / Elementor &nbsp;|&nbsp; Vercel / Git / GitHub
+<p>
+  <!-- Core languages / frameworks -->
+  <img src="https://img.shields.io/badge/javascript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/typescript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/react-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+
+  <!-- Back-end / DB / infra -->
+  <img src="https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white" alt="Postgres" />
+  <img src="https://img.shields.io/badge/mongodb-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+
+  <!-- Front-end / UI -->
+  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/three.js-000000?style=flat-square&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/GSAP-00A5FF?style=flat-square&logo=greensock&logoColor=white" alt="GSAP" />
+
+  <!-- Architecture / AI / tooling -->
+  <img src="https://img.shields.io/badge/LLM--Orchestration-555555?style=flat-square&logo=openai&logoColor=white" alt="LLM Orchestration" />
+  <img src="https://img.shields.io/badge/Agentic--Workflows-555555?style=flat-square&logo=github-actions&logoColor=white" alt="Agentic Workflows" />
+  <img src="https://img.shields.io/badge/REST_APIs-264B73?style=flat-square&logo=webhooks&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/SCADA/HMI-0F172A?style=flat-square&logo=powerbi&logoColor=white" alt="HMI/SCADA" />
+
+  <!-- Misc -->
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+</p>
+
+---
 
 ### 🛠️ Tech Stack
 
