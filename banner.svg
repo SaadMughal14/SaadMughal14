@@ -77,7 +77,7 @@
 <rect x="0" y="-476.0" width="378.4" height="476.0" fill="url(#scanGrad)"><animate attributeName="y" values="-476.0;476.0" dur="3s" repeatCount="indefinite"/></rect>
 </g>
 <g class="mono" font-size="13">
-      <text x="44.8" y="560.0" fill="#00d9ff">user@dev<tspan fill="#eef4ff">:~$ whoami</tspan></text>
+      <text x="44.8" y="560.0" fill="#00d9ff">user@dev<tspan fill="#eef4ff">:~i_am_saad</tspan></text>
       <rect x="184.8" y="548.0" width="7" height="14" fill="#00d9ff">
         <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
       </rect>
