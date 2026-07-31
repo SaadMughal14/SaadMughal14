@@ -1,19 +1,27 @@
-<div style="display:flex; align-items:center; gap:2rem; justify-content:center; flex-wrap:wrap;">
-
-  <!-- LEFT: Banner + Lanyard (lanyard tinted red via CSS filter) -->
-  <div style="max-width:560px; flex:0 0 560px;">
-    <img src="banner.svg?v=9" alt="Saad Mughal banner" style="width:100%; height:auto; display:block;" />
-    <!-- Larger spacer to add clear separation between banner/ASCII and lanyard -->
-    <div style="height:1.5rem;"></div>
-    <img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="280" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); display:block; margin-top:4px;" />
-  </div>
-
-  <div style="display:grid; grid-template-columns:repeat(2, max-content); gap:0.5rem 0.75rem; justify-items:center; align-items:center; flex:0 0 240px;">
-    <a href="https://saadmughal.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://x.com/Saad_Mughal_123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-    <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:example@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </div>
-
-</div>
+<table>
+  <tr>
+    <!-- LEFT: Banner + Lanyard (lanyard tinted red via CSS filter) -->
+    <td valign="top" width="560">
+      <img src="banner.svg?v=9" alt="Saad Mughal banner" style="width:100%; height:auto; display:block;" />
+      <!-- Larger spacer to add clear separation between banner/ASCII and lanyard -->
+      <div style="height:1.5rem;"></div>
+      <img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="280" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); display:block; margin-top:4px;" />
+    </td>
+    <!-- RIGHT: Badges, 2 per row -->
+    <td valign="middle" align="center" width="240">
+      <table>
+        <tr>
+          <td align="center"><a href="https://saadmughal.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a></td>
+          <td align="center"><a href="https://x.com/Saad_Mughal_123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a></td>
+        </tr>
+        <tr>
+          <td align="center"><a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></td>
+          <td align="center"><a href="mailto:example@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
 
 ---
 
