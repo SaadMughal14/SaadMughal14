@@ -114,7 +114,6 @@ Full-Stack Engineer and AI Systems Architect with 5+ years of experience spannin
 
 <p align="center">
   <img src="github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" width="98%">
-  <img src="github-snake-light.svg#gh-light-mode-only" alt="Snake animation" width="98%">
 </p>
 
 <p align="center">
