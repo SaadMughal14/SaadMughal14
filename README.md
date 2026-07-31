@@ -1,4 +1,3 @@
-<!-- Banner: full width, untouched -->
 <img src="banner.svg?v=9" alt="Saad Mughal banner" style="width:100%; height:auto; display:block;" />
 
 <br/>
