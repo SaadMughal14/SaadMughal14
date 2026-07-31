@@ -4,25 +4,28 @@
   <div style="max-width:720px; flex:1 1 560px;">
     <img src="banner.svg?v=9" alt="Saad Mughal banner" style="width:100%; height:auto; display:block;" />
     <br />
-    <!-- The filter below tints the lanyard to a red tone. Tweak the filter values if you want a different red. -->
-    <img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="170" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); display:block;" />
+    <!-- Spacer added to create extra line spacing below ASCII/banner and above the lanyard -->
+    <div style="height:1rem;"></div>
+    <!-- Increased the width so the lanyard appears a bit bigger on the profile -->
+    <img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="220" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); display:block; margin-top:8px;" />
   </div>
 
   <!-- RIGHT: Profile / Contact badges (stacked, tinted green) -->
-  <div style="display:flex; flex-direction:column; gap:0.5rem; align-items:flex-start; justify-content:center;">
-    <a href="https://saadmughal.space/" aria-label="Portfolio">
+  <!-- Constrained the right column width so badges sit nicely next to the lanyard -->
+  <div style="display:flex; flex-direction:column; gap:0.5rem; align-items:flex-start; justify-content:center; flex:0 0 220px;">
+    <a href="https://saadmughal.space/" aria-label="Portfolio" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-21A179?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
 
-    <a href="https://x.com/Saad_Mughal_123" aria-label="X / Twitter">
+    <a href="https://x.com/Saad_Mughal_123" aria-label="X / Twitter" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/X-21A179?style=for-the-badge&logo=x&logoColor=white" alt="X" />
     </a>
 
-    <a href="https://instagram.com/msaad_mughal" aria-label="Instagram">
+    <a href="https://instagram.com/msaad_mughal" aria-label="Instagram" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Instagram-21A179?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
 
-    <a href="mailto:isaadimughal@gmail.com" aria-label="Email">
+    <a href="mailto:isaadimughal@gmail.com" aria-label="Email" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Email-21A179?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </div>
