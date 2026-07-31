@@ -1,18 +1,17 @@
-<div style="display:flex; align-items:flex-start; gap:2rem; justify-content:center; flex-wrap:wrap;">
+<div style="display:flex; align-items:center; gap:2rem; justify-content:center; flex-wrap:wrap;">
 
   <!-- LEFT: Banner + Lanyard (lanyard tinted red via CSS filter) -->
-  <div style="max-width:720px; flex:1 1 560px;">
+  <div style="max-width:560px; flex:0 0 560px;">
     <img src="banner.svg?v=9" alt="Saad Mughal banner" style="width:100%; height:auto; display:block;" />
-    <br />
-    <!-- Spacer added to create extra line spacing below ASCII/banner and above the lanyard -->
-    <div style="height:1rem;"></div>
-    <!-- Increased the width so the lanyard appears a bit bigger on the profile -->
-    <img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="220" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); display:block; margin-top:8px;" />
+    <!-- Larger spacer to add clear separation between banner/ASCII and lanyard -->
+    <div style="height:1.5rem;"></div>
+    <!-- Increased the width so the lanyard appears noticeably bigger on the profile -->
+    <img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="280" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); display:block; margin-top:4px;" />
   </div>
 
   <!-- RIGHT: Profile / Contact badges (stacked, tinted green) -->
-  <!-- Constrained the right column width so badges sit nicely next to the lanyard -->
-  <div style="display:flex; flex-direction:column; gap:0.5rem; align-items:flex-start; justify-content:center; flex:0 0 220px;">
+  <!-- Fixed width and centered alignment so badges sit vertically centered next to the lanyard -->
+  <div style="display:flex; flex-direction:column; gap:0.75rem; align-items:center; justify-content:center; flex:0 0 240px;">
     <a href="https://saadmughal.space/" aria-label="Portfolio" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Portfolio-21A179?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
     </a>
