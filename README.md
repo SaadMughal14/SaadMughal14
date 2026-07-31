@@ -11,8 +11,10 @@
 
   <!-- RIGHT: Profile / Contact badges (stacked, tinted green) -->
   <!-- Fixed width and centered alignment so badges sit vertically centered next to the lanyard -->
-  <div style="display:flex; flex-direction:column; gap:0.75rem; align-items:center; justify-content:center; flex:0 0 240px;">
-    <a href="https://saadmughal.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://x.com/Saad_Mughal_123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a> <a href="https://instagram.com/msaad_mughal"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:isaadimughal@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <!-- CHANGED: Use a 2-column inline grid so badges appear two-per-row and don't wrap to the next line -->
+  <div style="display:grid; grid-template-columns:repeat(2, max-content); gap:0.5rem 0.75rem; justify-items:center; align-items:center; flex:0 0 240px;">
+    <a href="https://saadmughal.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://x.com/Saad_Mughal_123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+    <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:example@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   </div>
 
 </div>
@@ -21,7 +23,7 @@
 
 ### 💫 About Me
 
-Full-Stack Engineer and AI Systems Architect with 5+ years of experience spanning e-commerce, production-grade web applications, and AI-driven platforms. Founder of **Operator Control Systems** (industrial AI, HMI/SCADA, Zero Trust) and **Batch Systems** (premium web experiences for global clients). Delivered 13+ AI systems and 15+ high-performance web products.
+Full-Stack Engineer and AI Systems Architect with 5+ years of experience spanning e-commerce, production-grade web applications, and AI-driven platforms. Founder of **Operator Control Systems** (i[...]
 
 - 🔭 **Currently working on:** New client projects at Batch Systems and Operator Control Systems, plus AI automation tooling.
 - 🌱 **Currently learning:** Advanced Framer Motion and GSAP/ScrollTrigger patterns, and event-driven architecture for real-time apps.
