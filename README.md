@@ -113,39 +113,3 @@ Full-Stack Engineer and AI Systems Architect with 5+ years of experience spannin
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SaadMughal14&color=ff2d92&style=flat-square&label=Profile+Views" alt="Profile views">
 </p>
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/tailwindcss-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/three.js-black?style=flat-square&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/docker-0db7ed?style=flat-square&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/postgres-316192?style=flat-square&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/mongodb-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="stats.svg" alt="GitHub Stats" width="90%">
-</p>
-
-<p align="center">
-  <img src="langs.svg" alt="Top Languages" width="70%">
-</p>
-
-<p align="center">
-  <img src="trophies.svg" alt="Trophies" width="70%">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SaadMughal14&theme=react-dark&hide_border=true" alt="Activity Graph" width="98%">
-</p>
-
-<p align="center">
-  <img src="github-snake-dark.svg#gh-dark-mode-only" alt="Snake animation" width="98%">
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SaadMughal14&color=ff2d92&style=flat-square&label=Profile+Views" alt="Profile views">
-</p>
