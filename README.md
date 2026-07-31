@@ -5,13 +5,9 @@
     <img src="banner.svg?v=9" alt="Saad Mughal banner" style="width:100%; height:auto; display:block;" />
     <!-- Larger spacer to add clear separation between banner/ASCII and lanyard -->
     <div style="height:1.5rem;"></div>
-    <!-- Increased the width so the lanyard appears noticeably bigger on the profile -->
     <img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="280" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); display:block; margin-top:4px;" />
   </div>
 
-  <!-- RIGHT: Profile / Contact badges (stacked, tinted green) -->
-  <!-- Fixed width and centered alignment so badges sit vertically centered next to the lanyard -->
-  <!-- CHANGED: Use a 2-column inline grid so badges appear two-per-row and don't wrap to the next line -->
   <div style="display:grid; grid-template-columns:repeat(2, max-content); gap:0.5rem 0.75rem; justify-items:center; align-items:center; flex:0 0 240px;">
     <a href="https://saadmughal.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> <a href="https://x.com/Saad_Mughal_123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
     <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> <a href="mailto:example@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -23,7 +19,7 @@
 
 ### 💫 About Me
 
-Full-Stack Engineer and AI Systems Architect with 5+ years of experience spanning e-commerce, production-grade web applications, and AI-driven platforms. Founder of **Operator Control Systems** (i[...]
+Full-Stack Engineer and AI Systems Architect with 5+ years of experience spanning e-commerce, production-grade web applications, and AI-driven platforms. Founder of **Operator Control Systems** (industrial AI, HMI/SCADA, Zero Trust) and **Batch Systems** (premium web experiences for global clients). Delivered 13+ AI systems and 15+ high-performance web products.
 
 - 🔭 **Currently working on:** New client projects at Batch Systems and Operator Control Systems, plus AI automation tooling.
 - 🌱 **Currently learning:** Advanced Framer Motion and GSAP/ScrollTrigger patterns, and event-driven architecture for real-time apps.
