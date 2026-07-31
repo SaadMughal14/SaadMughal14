@@ -3,21 +3,20 @@
 
 <br/>
 
-<!-- Below banner: lanyard on the left half, badges on the right -->
-<table border="0" cellspacing="0" cellpadding="0" style="border:none; width:100%;">
-  <tr>
-    <td valign="top" align="center" style="border:none; width:50%;">
-      <img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="280" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); display:block;" />
-    </td>
-    <td valign="middle" align="center" style="border:none; width:50%;">
-      <a href="https://saadmughal.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-      <a href="https://x.com/Saad_Mughal_123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
-      <br/><br/>
-      <a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-      <a href="mailto:example@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    </td>
-  </tr>
-</table>
+<!-- Below banner: lanyard floats left (no table = no borders), badges sit centered beside it -->
+<p align="center">
+<img src="lanyard.svg?v=5" alt="Saad Mughal ID badge" width="280" align="left" style="filter: sepia(1) saturate(6) hue-rotate(-10deg) brightness(0.95); margin-right:40px;" />
+
+<br/><br/><br/><br/><br/><br/>
+
+<a href="https://saadmughal.space/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://x.com/Saad_Mughal_123"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+<br/><br/>
+<a href="https://instagram.com/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="mailto:example@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br clear="left"/>
+</p>
 
 ---
 
