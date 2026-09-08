@@ -169,22 +169,6 @@
       <rect x="502.0" y="476.0" width="42.6" height="30" rx="15" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.4)"/>
       <text x="516.0" y="496.0" class="mono" font-size="13" fill="#e3edff">Git</text>
     </g>
-<g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.20s" dur="0.3s" fill="freeze"/>
-      <circle cx="502" cy="540" r="17" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.4)" filter="url(#softGlow)"/>
-      <text x="502" y="545" text-anchor="middle" class="mono" font-size="11" fill="#00d9ff">GH</text>
-    </g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.30s" dur="0.3s" fill="freeze"/>
-      <circle cx="548" cy="540" r="17" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.4)" filter="url(#softGlow)"/>
-      <text x="548" y="545" text-anchor="middle" class="mono" font-size="11" fill="#00d9ff">in</text>
-    </g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.40s" dur="0.3s" fill="freeze"/>
-      <circle cx="594" cy="540" r="17" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.4)" filter="url(#softGlow)"/>
-      <text x="594" y="545" text-anchor="middle" class="mono" font-size="11" fill="#00d9ff">X</text>
-    </g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.50s" dur="0.3s" fill="freeze"/>
-      <circle cx="640" cy="540" r="17" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.4)" filter="url(#softGlow)"/>
-      <text x="640" y="545" text-anchor="middle" class="mono" font-size="11" fill="#00d9ff">WWW</text>
-    </g><g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="4.60s" dur="0.3s" fill="freeze"/>
-      <circle cx="686" cy="540" r="17" fill="rgba(255,255,255,0.05)" stroke="rgba(0,217,255,0.4)" filter="url(#softGlow)"/>
-      <text x="686" y="545" text-anchor="middle" class="mono" font-size="11" fill="#00d9ff">@</text>
-    </g>
 <rect x="1" y="1" width="1178" height="608" rx="27" fill="none" stroke="rgba(255,255,255,0.08)"/>
 </g>
 </svg>
